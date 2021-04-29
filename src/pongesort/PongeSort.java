@@ -16,6 +16,8 @@ public class PongeSort {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+char[] listaCaratteri={'a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'l'}; 
+    
     }
     
 }
